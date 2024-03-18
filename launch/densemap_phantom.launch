@@ -1,0 +1,15 @@
+<launch>
+
+  <!-- Cutout values for OpenHELP Phantom -->
+  <param name="image_cutoff_top" value="0" type="int" />
+  <param name="image_cutoff_bottom" value="0" type="int" />
+  <param name="image_cutoff_left" value="0" type="int" />
+  <param name="image_cutoff_right" value="0" type="int" />
+
+	<param name="input_in_mm" value="false" type="bool" />
+
+  <node pkg="mediassist3_densemap" type="densemap_node.py" name="densemap"
+    output="screen">
+  </node>
+
+</launch>
