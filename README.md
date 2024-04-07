@@ -17,3 +17,4 @@ Illustration of the PointCloud progression after several iterations.
 
 - [@MaDoedel](https://www.github.com/MaDoedel)
 - [@DavLei](https://www.github.com/DavLei)
+- [@Info-Sebi](https://github.com/Info-Sebi)
